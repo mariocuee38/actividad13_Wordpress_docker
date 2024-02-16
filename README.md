@@ -6,6 +6,7 @@
 
 ![paso2](img/dok2.PNG)
 
+### Comprobaré la instalación con el clásico hello-world:
 ![paso3](img/dok3.PNG)
 
 ## Creo el docker-compose.yml:
@@ -17,7 +18,7 @@
 ## Entro a la IP pública de la instancia desde un navegador...
 ![funciona](img/funciona.PNG)
 
-
-## Funciona!
+## Tras configurar las opciones basicas del wordpress...
+### Funciona!
 ![funciona2](img/funciona2.PNG)
 
